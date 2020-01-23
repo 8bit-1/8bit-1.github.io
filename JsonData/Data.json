@@ -1,0 +1,57 @@
+[
+{
+"Clase":"Introduccion a la ingenieria en Sistemas",
+"UV":3,
+"Codigo":"IS-110"
+},
+{
+"Clase":"Matematica 1",
+"UV":5,
+"Codigo":"MM-110"
+},
+{
+"Clase":"Geometria y Trigonometria",
+"UV":5,
+"Codigo":"MM-111"
+},
+{
+"Clase":"Sociologia",
+"UV":4,
+"Codigo":"SC-101"
+},
+{
+"Clase":"Vectores y Matrices",
+"UV":3,
+"Codigo":"MM-211"
+},
+{
+"Clase":"Ingles I",
+"UV":4,
+"Codigo":"IN-101"
+},
+{
+"Clase":"Calculo I",
+"UV":5,
+"Codigo":"MM-201"
+},
+{
+"Clase":"Calculo II",
+"UV":5,
+"Codigo":"MM-202"
+},
+{
+"Clase":"Ingles II",
+"UV":4,
+"Codigo":"IN-102"
+},
+{
+"Clase":"Programacion I",
+"UV":3,
+"Codigo":"MM-314"
+},
+{
+"Clase":"Español General I",
+"UV":4,
+"Codigo":"EG-011"
+}
+] 
