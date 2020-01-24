@@ -24,7 +24,7 @@ function getData(){
       let clases = document.querySelector('#clases')
       clases.innerHTML='';
 
-      for(let item in datos){
+      for(let item of datos){
           clases.innerHTML += 
           `<tr>
           <th>${item.Codigo}</th>
